@@ -1,5 +1,5 @@
 const Hero = ({
-  title = '"Elevate Your Job Search Experience with Jobs Portal"',
+  title = '"Elevate Your Job Search Experience with Jobber"',
   subtitle = 'Greetings from Jobs Portal, where we redefine the job search process with a touch of sophistication and humor. Our platform is committed to revolutionizing the traditional approach to job hunting by infusing it with a blend of professionalism and light-heartedness. ',
 }) => {
   return (
